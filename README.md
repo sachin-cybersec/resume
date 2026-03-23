@@ -1,10 +1,13 @@
 # 👨‍💻 Sachin Yadav
 
-📧 sachinyadav.blueteam@gmail.com  
-📱 +91 8299856735
-🏠 Raj Nagar, Ghaziabad, UttarPradesh
-🔗 LinkedIn: https://www.linkedin.com/in/sachin-cybersec  
+📧 sachinyadav.blueteam@gmail.com 
 
+📱 +91 8299856735 
+
+🏠 Raj Nagar, Ghaziabad, UttarPradesh
+
+🔗 LinkedIn: https://www.linkedin.com/in/sachin-cybersec  
+ 
 ---
 
 ## 🛡️ About Me
