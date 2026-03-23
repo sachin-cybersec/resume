@@ -1,14 +1,15 @@
 # 👨‍💻 Sachin Yadav
 
 📧 sachinyadav.blueteam@gmail.com  
-📱 +91 8299856735  
+📱 +91 8299856735
+🏠 Raj Nagar, Ghaziabad, UttarPradesh
 🔗 LinkedIn: https://www.linkedin.com/in/sachin-cybersec  
 
 ---
 
 ## 🛡️ About Me
 
-Aspiring **Network security** with hands-on experience in SOC operations, SIEM platforms, and endpoint security. Skilled in **security monitoring, log analysis, alert triage, threat detection, and incident response** with a strong foundation in network and endpoint security. :contentReference[oaicite:0]{index=0}
+Aspiring **Network security** with hands-on experience in SOC operations, EDR , and **Troubleshooting**. Skilled in **security monitoring, Technical Error, alert triage,Technical support , and incident response** with a strong foundation in network and endpoint security.
 
 I am passionate about **cybersecurity, threat detection, and blue team operations** and continuously work on security projects and labs to improve my skills.
 
@@ -16,19 +17,19 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## ⚙️ Skills
 
-**Security response -** Threat Detection, Log Analysis, Incident Response.
+**IT Support & Ticketing -** **ServiceNow**, JIRA, Incident Management, SLA Handling.
 
-**SOC & Monitoring -** NDR, EDR ,Ticketing, **SIEM**, SOAR.
+**Remoter Tool & Service -** AnyDesk , **Active Directory**. 
 
-**Enterprise tools -** CrowdStrike, Splunk, Wireshark, JIRA.
+**System Tools & Troubleshooting -** Command Prompt, PowerShell.
 
-**Networking security -** TCP/IP, IDS/IPS, HTTPS, VPN, DNS.
+**Operating Systems -** Windows, **Linux** , macOS.
 
-**Cloud & Firewall -** AWS , Azure , Palo Alto.
+**Networking -** **TCP/IP**, DNS, DHCP, VPN, Troubleshooting.
 
-**Programming -** Python , Javascript.
+**SOC & Monitoring -** **SIEM tools**, log analysis, alert monitoring.
 
-**Operating Systems -** Windows ,Linux, Unix.
+
 
 ---
 
@@ -90,7 +91,7 @@ Shri Ramswaroop Memorial College of Engineering and Management
 
 ## 📌 Career Goal
 
-My goal is to become a **SOC Analyst / Network Security Professional**, specializing in **threat detection, incident response, SIEM and security monitoring**.
+My goal is to become a **Network Security Professional**, specializing in **Troubleshooting, incident response, SIEM and security monitoring**.
 
 ---
 
